@@ -1,0 +1,3 @@
+#This is a little project that I made while I was playing Shin Megami Tensei V : Vengeance as I came across
+#Satan in the Canon of Creation. Thought I should create my own demon inspired by Satan, Lucifer, as well as
+#Serph from the Digital Devil Saga series. 
